@@ -1,15 +1,5 @@
-# Heading
+# The Odin Project: Recipes Assignment
 
-Body text
+To supplement my knowledge on web design and development, I started taking free lessons from The Odin Project through the Fundamentals course. This project acts as an overview of the basic HTML (headings, text, links and images) I learned. 
 
-## Heading 2
-
-```Hmmmmmm
-
-
-``` meow
-
-```meow
-
-
-The purpose of this project is to utilize my 
+Here, I compiled three Filipino recipes to use as examples for the project. If I could make some bibingka, halo-halo and ube hopia right now I would C:
